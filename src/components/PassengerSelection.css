@@ -1,0 +1,101 @@
+.passenger-selection {
+  border: 1.5px solid #3f37bd;
+  border-radius: 8px;
+  padding: 20px;
+  width: 300px;
+  margin: 20px;
+  background-color: white;
+}
+
+.passenger-selection h2 {
+  margin: 0 0 10px;
+  display: grid;
+  justify-content: start;
+  color: #3f37bd;
+}
+.passenger-selection p {
+  display: grid;
+
+  justify-content: start;
+  color: #3f37bd;
+}
+
+.flight-info {
+  margin-bottom: 20px;
+}
+
+.passenger-accordion {
+  margin-bottom: 20px;
+}
+
+.passenger {
+  margin: 10px 0;
+}
+
+.passenger-header {
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(241, 246, 249);
+  padding: 10px;
+  cursor: pointer;
+  border-radius: 4px;
+  border: 1px solid #343683;
+}
+
+.passenger-header p {
+  margin: 0;
+  justify-items: center;
+}
+
+.passenger-content {
+  background: #e1e1e1;
+  padding: 10px;
+  border-radius: 4px;
+  margin-top: 5px;
+}
+
+.total-price {
+  font-weight: bold;
+  text-align: center;
+  font-size: 18px;
+}
+
+.container {
+  background-color: rgba(223, 221, 221, 0.79);
+}
+
+
+
+/* Tablet view (max-width: 1024px) */
+@media (max-width: 1024px) {
+  .passenger-selection {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .passenger {
+    margin: 5px 10px;
+  }
+
+  .passenger-button {
+    padding: 10px 20px;
+  }
+}
+
+/* Mobile view (max-width: 767px) */
+@media (max-width: 767px) {
+  .passenger-selection {
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+  }
+
+  .passenger-button {
+    width: 100%;
+    max-width: 200px;
+    margin: 5px 0;
+    text-align: center;
+    padding: 8px;
+  }
+}

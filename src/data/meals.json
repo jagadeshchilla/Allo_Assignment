@@ -1,0 +1,232 @@
+{
+  "labels": [
+    {
+      "id": "pork",
+      "label": "Pork"
+    },
+    {
+      "id": "seafood",
+      "label": "Seafood"
+    },
+    {
+      "id": "kids",
+      "label": "Kids"
+    },
+    {
+      "id": "chicken",
+      "label": "Chicken"
+    },
+    {
+      "id": "beef",
+      "label": "Beef"
+    },
+    {
+      "id": "vegetarian",
+      "label": "Vegetarian"
+    },
+    {
+      "id": "breakfast",
+      "label": "Breakfast"
+    }
+  ],
+  "meals": [
+    {
+      "id": "meal1",
+      "title": "3 course chicken",
+      "starter": "Lorem Ipsum",
+      "desert": "Cake",
+      "price": 9.99,
+      "labels": [
+        "chicken",
+        "breakfast"
+      ],
+      "img": "https://www.jocooks.com/wp-content/uploads/2022/07/grilled-chicken-breast-1-21.jpg",
+      "drinks": [
+        {
+          "id": "drink-1",
+          "title": "Vine",
+          "price": 4.99
+        },
+        {
+          "id": "drink-2",
+          "title": "Juice",
+          "price": 5.99
+        },
+        {
+          "id": "drink-3",
+          "title": "Beer",
+          "price": 6.99
+        }
+      ]
+    },
+    {
+      "id": "meal2",
+      "title": "3 course Beef",
+      "starter": "Lorem Ipsum",
+      "desert": "Cake",
+      "price": 19.99,
+      "labels": [
+        "beef"
+      ],
+      "img": "https://www.kitchensanctuary.com/wp-content/uploads/2015/09/Spicy-Beef-Curry-square.jpg",
+      "drinks": [
+        {
+          "id": "drink-1",
+          "title": "Vine",
+          "price": 4.99
+        },
+        {
+          "id": "drink-2",
+          "title": "Juice",
+          "price": 5.99
+        },
+        {
+          "id": "drink-3",
+          "title": "Beer",
+          "price": 6.99
+        }
+      ]
+    },
+    {
+      "id": "meal3",
+      "title": "3 course Vegetarian",
+      "starter": "Lorem Ipsum",
+      "desert": "Cake",
+      "price": 79.99,
+      "labels": [
+        "vegetarian"
+      ],
+      "img": "https://www.indianhealthyrecipes.com/wp-content/uploads/2023/07/vegetable-curry-recipe.jpg",
+      "drinks": [
+        {
+          "id": "drink-1",
+          "title": "Vine",
+          "price": 4.99
+        },
+        {
+          "id": "drink-2",
+          "title": "Juice",
+          "price": 5.99
+        },
+        {
+          "id": "drink-3",
+          "title": "Beer",
+          "price": 6.99
+        }
+      ]
+    },
+    {
+      "id": "meal4",
+      "title": "3 course Seafood",
+      "starter": "Lorem Ipsum",
+      "desert": "Cake",
+      "price": 49.99,
+      "labels": [
+        "seafood"
+      ],
+      "img": "https://simply-delicious-food.com/wp-content/uploads/2022/09/Seafood-curry4.jpg",
+      "drinks": [
+        {
+          "id": "drink-1",
+          "title": "Vine",
+          "price": 4.99
+        },
+        {
+          "id": "drink-2",
+          "title": "Juice",
+          "price": 5.99
+        },
+        {
+          "id": "drink-3",
+          "title": "Beer",
+          "price": 6.99
+        }
+      ]
+    },
+    {
+      "id": "meal5",
+      "title": "3 course Pork",
+      "starter": "Lorem Ipsum",
+      "desert": "Cake",
+      "price": 39.99,
+      "labels": [
+        "pork"
+      ],
+      "img": "https://5.imimg.com/data5/IM/KH/GLADMIN-21954819/south-indian-full-meals-250x250.jpg",
+      "drinks": [
+        {
+          "id": "drink-1",
+          "title": "Vine",
+          "price": 4.99
+        },
+        {
+          "id": "drink-2",
+          "title": "Juice",
+          "price": 5.99
+        },
+        {
+          "id": "drink-3",
+          "title": "Beer",
+          "price": 6.99
+        }
+      ]
+    },
+    {
+      "id": "meal6",
+      "title": "3 course Kids",
+      "starter": "Lorem Ipsum",
+      "desert": "Cake",
+      "price": 29.99,
+      "labels": [
+        "kids",
+        "breakfast"
+      ],
+      "img": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2015/11/20/3/FNK_Kids-Can-Make-OPENER_s4x3.jpg.rend.hgtvcom.616.462.suffix/1448050653882.jpeg",
+      "drinks": [
+        {
+          "id": "drink-1",
+          "title": "Vine",
+          "price": 4.99
+        },
+        {
+          "id": "drink-2",
+          "title": "Juice",
+          "price": 5.99
+        },
+        {
+          "id": "drink-3",
+          "title": "Beer",
+          "price": 6.99
+        }
+      ]
+    },
+    {
+      "id": "meal7",
+      "title": "3 course Chicken 2",
+      "starter": "Lorem Ipsum",
+      "desert": "Cake",
+      "price": 19.99,
+      "labels": [
+        "chicken"
+      ],
+      "img": "https://www.jocooks.com/wp-content/uploads/2019/07/garlic-and-paprika-chicken-1-14.jpg",
+      "drinks": [
+        {
+          "id": "drink-1",
+          "title": "Vine",
+          "price": 4.99
+        },
+        {
+          "id": "drink-2",
+          "title": "Juice",
+          "price": 5.99
+        },
+        {
+          "id": "drink-3",
+          "title": "Beer",
+          "price": 6.99
+        }
+      ]
+    }
+  ]
+}
