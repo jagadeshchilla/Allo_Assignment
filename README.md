@@ -48,3 +48,5 @@ This project is a React application for selecting meals associated with passenge
 ## Deployment
 
 ## Link to Access Code
+open my website
+https://allo-assignment.vercel.app/
