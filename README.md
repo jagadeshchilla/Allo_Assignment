@@ -4,15 +4,6 @@
 
 This project is a React application for selecting meals associated with passengers, with filtering, pagination, and meal deselection features.
 
-## Table of Contents
-
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Folder Structure](#folder-structure)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
